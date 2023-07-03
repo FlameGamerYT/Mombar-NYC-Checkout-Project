@@ -7,7 +7,7 @@ A menu and checkout project for the NYC restaurant Mombar.
   * [Requirements](#requirements)
   * [Installation](#installation)
   * [Usage](#usage)
-    + [Updating the Menu](#updating-the-menu)
+  + [Updating the Menu](#updating-the-menu)
 
 ## Description
 This project was created for the popular restaurant Mombar located at 25-22 Steinway Street Astoria New York. It contains the full menu and images for each item, with a functional login and checkout system.
